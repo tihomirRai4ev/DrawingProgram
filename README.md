@@ -13,3 +13,6 @@
  enter command: B 10 3 o
  To exit:
  enter command: Q
+ 
+ Assumption: If the point provided to Fill command is at a line 'x', the nearest empty shape will be filled.
+ If there are several from the same distance, all will be filled.
